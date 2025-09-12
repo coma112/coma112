@@ -20,7 +20,6 @@
 | 🎯 Project | 🌟 Description | 🔗 Link |
 |------------|---------------|----------|
 | **MonGen's Cave** | Innovative development workspace | [Explore →](https://github.com/MonGen-s-Cave) |
-| **FyreMC** | Next-gen Minecraft server | [Visit →](https://www.fyremc.hu/) |
 
 </div>
 
