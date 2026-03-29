@@ -19,7 +19,6 @@
 
 | 🎯 Project | 🌟 Description | 🔗 Link |
 |------------|---------------|----------|
-| **MonGen's Cave** | Innovative development workspace | [Explore →](https://github.com/MonGen-s-Cave) |
 | **SyntaxOwl** | My Thing | [Soon →](https://imgur.com/gallery/soon-Zg8wPLX#/t/soon) |
 
 </div>
