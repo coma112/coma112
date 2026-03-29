@@ -19,7 +19,7 @@
 
 | 🎯 Project | 🌟 Description | 🔗 Link |
 |------------|---------------|----------|
-| **SyntaxOwl** | My Thing | [Soon →](https://imgur.com/gallery/soon-Zg8wPLX#/t/soon) |
+| **SyntaxOwl** | Education typeshit | [Link →](https://syntaxowl.eu/) |
 
 </div>
 
