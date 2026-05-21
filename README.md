@@ -20,6 +20,7 @@
 | 🎯 Project | 🌟 Description | 🔗 Link |
 |------------|---------------|----------|
 | **SyntaxOwl** | Education typeshit | [Link →](https://syntaxowl.eu/) |
+| **JukePix** | How well do you know ur fav artist? | [Link →](https://jukepix.eu/) |
 
 </div>
 
