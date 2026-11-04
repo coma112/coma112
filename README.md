@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Hungary-based Fullstack Engineer, multiple-time competition winner, and experienced software developer passionate about building impactful software.<br><br>Currently working at **Rise Kft.** as a Fullstack Engineer in the **CIT sector**, while leading development at **Flucite**, focusing primarily on custom logistics and internal business solutions.<br><br>Previously, I worked at **Codemodity Kft.** in the iGaming industry, developing online casino platforms.<br><br>I enjoy tackling complex engineering challenges, building scalable systems, and turning ideas into production-ready software.<br><br>Check out my work: [kulasd.site](https://kulasd.site/)
+I'm a Hungary-based Fullstack Engineer, multiple-time competition winner, and experienced software developer passionate about building impactful software.<br><br>Currently working at **Risec Kft.** as a Fullstack Engineer in the **CIT sector**, while leading development at **Flucite**, focusing primarily on custom logistics and internal business solutions.<br><br>Previously, I worked at **Codemodity Kft.** in the iGaming industry, developing online casino platforms.<br><br>I enjoy tackling complex engineering challenges, building scalable systems, and turning ideas into production-ready software.<br><br>Check out my work: [kulasd.site](https://kulasd.site/)
 
 
 ## 🌐 Socials:
